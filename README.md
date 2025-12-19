@@ -37,7 +37,7 @@ Welcome to my GitHub profile! I'm passionate about crafting efficient, scalable,
 
 ## 💼 Featured Projects
 
-### 1️⃣ [Bank Project](#)
+### 1️⃣ [Bank Project](https://github.com/Wagdan111/BankManagementSystem)
 Developed a simple banking system as a practical and educational tool using **C#**, **.NET Framework**, and **SQL Server**.
 
 #### **🌟 Features**:
@@ -60,7 +60,7 @@ A desktop tool designed for driver and license management with powerful administ
 
 ---
 
-### 3️⃣ [DatabaseBackupService](#)
+### 3️⃣ [DatabaseBackupService](https://github.com/Wagdan111/DatabaseBackupService)
 Built a Windows Service to seamlessly automate SQL Server database backups for reliability and efficiency.
 
 #### **🛠️ Features**:
@@ -71,7 +71,7 @@ Built a Windows Service to seamlessly automate SQL Server database backups for r
 
 ---
 
-### 4️⃣ [FileWatcherService](#)
+### 4️⃣ [FileMonitoringService](https://github.com/Wagdan111/FileMonitoringService)
 Automated file processing in real-time with this Windows Service.
 
 #### **⚡ Core Features**:
@@ -82,7 +82,7 @@ Automated file processing in real-time with this Windows Service.
 
 ---
 
-### 5️⃣ [SmartWallpaperService](#)
+### 5️⃣ [SmartWallpaperService](https://github.com/Wagdan111/SmartWallpaperService)
 A lightweight, automated system to rotate desktop wallpapers easily.
 
 #### **🎨 Features**:
