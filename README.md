@@ -1,99 +1,108 @@
-<div align="center">
-  <h1>
-    <span style="font-weight: bold; font-size: 48px; color: transparent; background: linear-gradient(270deg, #10B3FF, #0070F3, #10E7FF); 
-    background-clip: text;">Wagdan Mohammed</span>
-  </h1>
-</div>
-
-<p align="center">🚀 <b>Software Developer | 🌟 API Specialist | 💾 Database Designer</b> 🎨</p>
+<h1 align="center">Hi there, I'm Wagdan Mohammed 👋</h1>
+<p align="center">🚀 Software Developer | 🌟 API Specialist | 💾 Database Designer</p>
 
 ---
 
-<div align="center">
-  <img src="https://readme-hero.vercel.app/api?type=gradient&width=600&height=200&text=%20Welcome%20to%20My%20GitHub%20Profile!&fontSize=40" alt="Welcome Banner" />
-</div>
+Welcome to my GitHub profile! I'm passionate about crafting efficient, scalable, and intuitive solutions that solve real-world challenges.
 
 ---
 
 ## ✨ About Me
 
 - 👨‍💻 **Profession**: Software Developer / API Specialist / Database Designer  
-- 💡 **Passions**: Algorithm design, back-end systems, and creating innovative software solutions.  
-- 📚 **Learning**: Continuously exploring new tools and techniques to elevate my craft.
+- 💡 **Passions**: Algorithm design, back-end systems, and creating exceptional user experiences.  
+- 📚 **Learning**: Always exploring new technologies and methodologies to stay ahead!
 
 ---
 
-## 🔥 Tech Stack
+## 🔥 My Skills
 
-### **Languages & Frameworks**
+### **💻 Programming & Front-End Development**
+![Tech Stack](https://img.shields.io/badge/-C%20Sharp-239120?logo=csharp&logoColor=white&style=plastic)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=plastic)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=plastic)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=plastic)
 
-<div>
-  <img src="https://img.shields.io/badge/-C%20Sharp-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/-.NET%20Framework-68217A?style=for-the-badge&logo=.net&logoColor=white" alt=".NET Framework" />
-</div>
+- Frameworks & Tools: **.NET Framework**, **ADO.NET**, **Git**, **GitHub**
 
-### **Databases**
-- 💾 **Microsoft SQL Server**, **T-SQL (Transact-SQL)**
-- 💡 Database Design, Development & Integration
+### **🛠️ Databases & Back-End Development**
+- Database Tools: **Microsoft SQL Server**, **T-SQL (Transact-SQL)**
+- Specialties: **API Development**, **Database Design**, **Database Development**
 
-### **Key Skills**
-![OOP](https://img.shields.io/badge/-OOP-FC7300?style=for-the-badge&logo=oop&logoColor=white) 
-![RESTful API](https://img.shields.io/badge/-RESTful%20API-00599C?style=for-the-badge&logo=restapi&logoColor=white)
-![Algorithm Design](https://img.shields.io/badge/-Algorithm%20Design-BF00FF?style=for-the-badge&logo=algorithm&logoColor=white)
+### **🎨 Software Design & Development**
+- **Object-Oriented Programming (OOP)**
+- **Algorithm Design**
 
 ---
 
 ## 💼 Featured Projects
 
-<div align="center">
-  <img src="https://img.shields.io/badge/-Bank%20Project-blueviolet?style=for-the-badge&logo=github" />
-</div>
+### 1️⃣ [Bank Project](#)
+Developed a simple banking system as a practical and educational tool using **C#**, **.NET Framework**, and **SQL Server**.
 
-**📂 Bank Project**  
-A user-friendly and functional banking system built using C#, .NET Framework, and SQL Server for educational purposes.
-
-<div align="center">
-  <img src="https://img.shields.io/badge/-DVLD%20Management%20System-yellowgreen?style=for-the-badge&logo=linux" />
-</div>
-
-**📂 DVLD Management System**  
-Manage driver licenses, registrations, and tests with this complete desktop system.
-
-<div align="center">
-  <img src="https://img.shields.io/badge/-DatabaseBackupService-blue?style=for-the-badge&logo=hive" />
-</div>
-
-**📂 DatabaseBackupService**  
-Reliable, fully automated Windows Service for scheduling SQL Server backups.
-
-<div align="center">
-  <img src="https://img.shields.io/badge/-FileWatcherService-orange?style=for-the-badge&logo=windows" />
-</div>
-
-**📂 FileWatcherService**  
-Automated real-time folder monitoring with advanced file handling.
-
-<div align="center">
-  <img src="https://img.shields.io/badge/-SmartWallpaperService-lightpink?style=for-the-badge&logo=adobe" />
-</div>
-
-**📂 SmartWallpaperService**  
-Easily and automatically rotate desktop wallpapers with this lightweight service.
+#### **🌟 Features**:
+- **Account Management**: Create, edit, delete, and manage customer accounts.
+- **Secure Transactions**: Deposits, withdrawals, balance checks.
+- **Data Validation**: Secures user data and prevents errors.
+- **Modern Interface**: Built with **Windows Forms** for a user-friendly experience.
 
 ---
 
-## 📫 Connect With Me
+### 2️⃣ [DVLD Management System](#)
+A desktop tool designed for driver and license management with powerful administrative features.
 
-<p align="center">
-  <a href="mailto:mohammedaliwagdan@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/wagdan-mohammed-a16271365/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" /></a>
-</p>
+#### **🔑 Features**:
+- Manage **driver registration** and **identity verification**.
+- Full **license lifecycle management**: New, renewal, replacement.
+- Track **fines** and **violations**.
+- Conduct driver tests: **Vision**, **Written**, and **Practical**.
+- Administrative roles, permissions, and reports.
+
+---
+
+### 3️⃣ [DatabaseBackupService](#)
+Built a Windows Service to seamlessly automate SQL Server database backups for reliability and efficiency.
+
+#### **🛠️ Features**:
+- **Scheduled Backups**: Configurable time intervals.
+- Store backups with **time-stamped filenames** in custom directories.
+- **Low Resource Impact**: Designed for production in any scale environment.
+- **Full Traceability**: Logs every success or error.
+
+---
+
+### 4️⃣ [FileWatcherService](#)
+Automated file processing in real-time with this Windows Service.
+
+#### **⚡ Core Features**:
+- **Folder Monitoring**: Continuous monitoring using FileSystemWatcher.
+- **File Automation**: Rename (based on GUID), move to a target folder, and delete original files.
+- **Detailed Logs**: Records all operations for easy tracking.
+- Options to run as a **Windows Service** (production) or **Console App** (testing).
+
+---
+
+### 5️⃣ [SmartWallpaperService](#)
+A lightweight, automated system to rotate desktop wallpapers easily.
+
+#### **🎨 Features**:
+- **Automatic Rotation**: Change wallpapers from a selected folder.
+- Save image indexes to ensure no repetition after restart.
+- **Task Scheduler Integration**: For seamless operation with other utilities.
+- **Activity Logs**: Leave no action unexplained.
+
+> **💡 Explore more innovative projects in my repositories!**
+
+---
+
+## 📫 Connect with Me
+
+- 🌐 **Portfolio/Website**: [YourWebsite](#)
+- 💼 **LinkedIn**: [Wagdan Mohammed](https://www.linkedin.com/in/wagdan-mohammed-a16271365/)
+- 📧 **Email**: mohammedaliwagdan@gmail.com
 
 ---
 
 <h3 align="center">⭐ "Simplicity in design leads to clarity in innovation." ⭐</h3>
 
-<p align="center">Thank you for visiting my profile! Feel free to explore my repositories, leave feedback, or star your favorite projects. Let's connect and innovate together! 🚀</p>
+<p align="center">Thank you for visiting! Feel free to explore, leave feedback, and connect. Let's collaborate to create something amazing! 🚀</p>
