@@ -70,31 +70,6 @@ Built a Windows Service to seamlessly automate SQL Server database backups for r
 - **Full Traceability**: Logs every success or error.
 
 ---
-
-### 4️⃣ [FileMonitoringService](https://github.com/Wagdan111/FileMonitoringService)
-Automated file processing in real-time with this Windows Service.
-
-#### **⚡ Core Features**:
-- **Folder Monitoring**: Continuous monitoring using FileSystemWatcher.
-- **File Automation**: Rename (based on GUID), move to a target folder, and delete original files.
-- **Detailed Logs**: Records all operations for easy tracking.
-- Options to run as a **Windows Service** (production) or **Console App** (testing).
-
----
-
-### 5️⃣ [SmartWallpaperService](https://github.com/Wagdan111/SmartWallpaperService)
-A lightweight, automated system to rotate desktop wallpapers easily.
-
-#### **🎨 Features**:
-- **Automatic Rotation**: Change wallpapers from a selected folder.
-- Save image indexes to ensure no repetition after restart.
-- **Task Scheduler Integration**: For seamless operation with other utilities.
-- **Activity Logs**: Leave no action unexplained.
-
-> **💡 Explore more innovative projects in my repositories!**
-
----
-
 ## 📫 Connect with Me
 
 - 💼 **LinkedIn**: [Wagdan Mohammed](https://www.linkedin.com/in/wagdan-mohammed-a16271365/)
