@@ -97,7 +97,6 @@ A lightweight, automated system to rotate desktop wallpapers easily.
 
 ## 📫 Connect with Me
 
-- 🌐 **Portfolio/Website**: [YourWebsite](#)
 - 💼 **LinkedIn**: [Wagdan Mohammed](https://www.linkedin.com/in/wagdan-mohammed-a16271365/)
 - 📧 **Email**: mohammedaliwagdan@gmail.com
 
