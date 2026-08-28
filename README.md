@@ -74,6 +74,7 @@ Built a Windows Service to seamlessly automate SQL Server database backups for r
 
 - 💼 **LinkedIn**: [Wagdan Mohammed](https://www.linkedin.com/in/wagdan-mohammed-a16271365/)
 - 📧 **Email**: mohammedaliwagdan@gmail.com
+- **My Portfolio**: [https://wagdan111.github.io/Wagdan-Portfolio/]
 
 ---
 
